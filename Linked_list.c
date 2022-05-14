@@ -7,6 +7,7 @@
 #include<ctype.h>
 #include<time.h>
 
+
 #define si(n) scanf("%d",&n)
 #define sf(n) scanf("%f",&n)
 #define sd(n) scanf("%lf",&n)
