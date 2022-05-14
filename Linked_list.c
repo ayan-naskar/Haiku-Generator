@@ -343,7 +343,7 @@ int main(){
 	srand(time(0));
 	makeListFromWordFile(qqqq);
 	//makeList();
-	showList();
+	//showList();
 	//printf("Working\n");
 	//puts(getWord(4));
 	//printf("--------------\n");
