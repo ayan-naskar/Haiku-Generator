@@ -7,5 +7,5 @@ This c program generates a randomised Haiku Poem everything the program is run. 
 -- a poem in English written in the form of a haiku --
 
 # How to Run:
-		Compile and run the file named Linked_list.c and get the output of the program 
+		Compile and run the file named "Linked_list.c" and get the output of the program 
 		in a form of a poem in the terminal.
