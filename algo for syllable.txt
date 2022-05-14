@@ -1,0 +1,16 @@
+count-syllable(word):
+	if word empty?
+		return 0
+	else if word[0] is vowel:
+		1 + skip-vowel(word[1:])
+	else
+		count-syllable(word[1:])
+
+
+skip-vowel(word):
+	if word empty?
+		return count-syllable("")
+	else if word[0] is vowel:
+		skip-vowel(word[1:])
+	else
+		count-syllable(word)
